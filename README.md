@@ -1,4 +1,4 @@
-#Next.js(13)으로 1:1 채팅 구현
+# Next.js(13)으로 1:1 채팅 구현
 ## 시작
 ```
 git clone https://github.com/janmki08/nextChat_test.git
