@@ -6,7 +6,7 @@ cd nextChat_test
 npm install
 npm run dev
 ```
-http://localhost:3000/chat 으로 접속
+http://localhost:3000
 ## v12-chat 브랜치
 
 ## v13-chat 브랜치
